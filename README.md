@@ -3,10 +3,8 @@
      ============================================================ -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pan2-logo-dark.png">
-  <img alt="PAN 2" src="assets/pan2-logo-light.png" width="420">
-</picture>
+<img alt="PAN 2" src="assets/pan2-logo-dark.png#gh-dark-mode-only" width="420">
+<img alt="PAN 2" src="assets/pan2-logo-light.png#gh-light-mode-only" width="420">
 
 
 <a href="https://huggingface.co/IFM/PAN2" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
@@ -280,10 +278,8 @@ pan2/
 PAN 2 with Kimi K3 as the conceptual reasoner, from the technical report; benchmarks, human evaluation and the evaluation protocols are in the [model card](MODEL_CARD.md#headline-results).
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/report/results_capabilities_dark.png">
-    <img alt="Capability and multi-step plan results, PAN 2 highlighted" src="assets/report/results_capabilities_light.png" width="100%">
-  </picture>
+  <img alt="Capability and multi-step plan results, PAN 2 highlighted" src="assets/report/results_capabilities_dark.png#gh-dark-mode-only" width="100%">
+  <img alt="Capability and multi-step plan results, PAN 2 highlighted" src="assets/report/results_capabilities_light.png#gh-light-mode-only" width="100%">
 </p>
 
 ## License and Attribution
